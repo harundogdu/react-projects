@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "name": "Mortal Kombat ",
+      "rating": "7,8",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/khhAa4bJK2hRSdh1BhpZPtIROSx.jpg",
+      "overview": "Eski bir MMA dövüşçüsü olan Cole Young kendisine kalan mirastan haberiz, Outworld’den gelen İmparator Shang Tsung’un en iyi savaşçısı olan Sub-Zero’nun saldırısına uğrar. Sub-Zero’nun onu avlaması için neden gönderildiğini öğrenmek için çıktığı macerada kendini bir anda Dünya’nın en iyi savaşçıları ile birlikte Outworld’den gelen savaşçılara karşı ölümcül bir dövüşe hazırlanırken bulur.",
+      "id": 1
+    },
+    {
+      "name": "Önemsiz Biri ",
+      "rating": "7,6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/84JddAfIw0hsssbITouwU8eLmlA.jpg",
+      "overview": "Hutch Mansell, karısı Becca ve oğlu Blake ile banliyöde yaşayan bir adamdır. Ailenin sıradan yaşamı bir gece iki hırsızın evlerine girmesiyle alt üst olur. Hutch daha büyük bir şiddetin yaşanmasını önlemek için hırsızlara karşı tepkisiz kalır. Ancak onun ailesini savunmaması oğlu ve karısının kendisinden uzaklaşmasına neden olur. Yaşanan bu olay, Hutch’ın yıllardır içinde bastırdığı bazı duyguların harekete geçmesine neden olur. Yumruk, silah sesleri olan bir dünyaya dahil olan Hutch, bir daha önemsiz biri gibi hafife alınmayacağından emin olmaya çalışır.",
+      "id": 2
+    },
+    {
+      "name": "Godzilla vs. Kong",
+      "rating": "8,1",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4bTShLVFnVKK31cowgjdAIZV84T.jpg",
+      "overview": "Devasa Kong, durdurulamayan Godzilla ile tanışır. Dünya, hangisinin tüm canavarların kralı olduğunu görmek için izler.",
+      "id": 3
+    },
+    {
+      "name": "Zack Snyder‘ın Adalet Birliği ",
+      "rating": "8,6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "overview": "Süpermen’in nihai fedakarlığının boşuna olmamasını sağlamaya kararlı olan Bruce Wayne, dünyayı felaket oranlarının yaklaşan bir tehdidinden korumak için bir meta insan ekibi oluşturma planlarıyla Diana Prince ile güçlerini birleştirir.",
+      "id": 4
+    },
+    {
+      "name": "Wonder Woman 1984",
+      "rating": "7,6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jU4uoAnyjrZbicOG7axEMPc8Ejs.jpg",
+      "overview": "Wonder Woman’ın devamı niteliğinde çekilen film, 1984 yılında geçmektedir. Diana Prince, bu kez iki yeni düşmanla karşı karşıyadır: Bir Tanrı’nın elinden çıkma nesnenin gücünü kendi çıkarı için kullanmaya çalışan varlıklı iş insanı Max Lord ve yaşadığı bir trajediden sonra kötü kadın haline gelen Barbara Minerva, nam-ı diğer Cheetah.",
+      "id": 5
+    },
+    {
+      "name": "Çelik Adam",
+      "rating": "8,6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tz5MqU6BnMToJbaM2m7MizpMnlu.jpg",
+      "overview": "\nSüper kahramanlar arasında en çok tanınan ve en çok saygı gören Superman'dir. Clark Kent / Kal-El (Henry Cavill) hayal edilemeyecek güçlere sahip olduğu için kendisini yabancılaşmış hisseden yirmili yaşlarında bir gazetecidir. Yıllar once gelişmiş gezegen Krypton'dan Dünya'ya getirilmiş olan Clark sürekli kendisine \"Niçin buradayım?\" sorusunu sormaktadır. Üvey anne babası Martha ve Jonathan Kent'in değerlerine göre büyütülmüş olan Clark kısa süre içinde süper yeteneklere sahip olmanın çok zor kararlar almak anlamına geldiğini fark eder. Dünya tam da dengeye ve istikrara ihtiyaç duyarken, saldırıya uğrar. Clark'ın yetenekleri barışı sağlamak için mi yoksa sonunda bölmek ve fethetmek için mi kullanılacak? Clark sadece dünyanın son umut ışığı olmak için değil aynı zamanda sevdiklerini korumak için de Superman olmuş olmalı.",
+      "id": 6
+    }
+  ]
+}
