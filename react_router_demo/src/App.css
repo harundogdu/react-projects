@@ -1,0 +1,130 @@
+.app {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.app.light {
+    background: #fff !important;
+    color: #2A0944 !important;
+    transition: 400ms all linear;
+}
+
+.app.dark {
+    background: #2A0944 !important;
+    color: #fff !important;
+    transition: 400ms all linear;
+}
+
+.app.dark a,
+.app.dark p,
+.app.dark label {
+    color: #fff;
+}
+
+.app.light a,
+.app.light p,
+.app.light label {
+    color: #2A0944;
+}
+
+nav {
+    padding: 10px;
+}
+
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    transition: all linear 300ms;
+    margin: 0 5px;
+}
+
+nav ul li:not(:first-child) a:hover {
+    background-color: #2A0944;
+    color: #fff;
+}
+
+nav ul li:first-child a:hover {
+    color: #fff;
+    background-color: #2A0944;
+}
+
+.userlist {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.userlist li {
+    margin: 5px 0;
+}
+
+
+
+footer {
+    width: 100%;
+    height: 93px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(53, 232, 238) !important;
+    font-weight: 600;
+}
+
+small {
+    font-weight: 600;
+}
+
+label {
+    font-weight: 500;
+    font-size: 18px;
+    text-shadow: 1px 1px 1px #2A0944;
+}
+
+label span {
+    font-size: 15px;
+}
+
+.activeElement {
+    background-color: red !important;
+    color: #fff !important;
+}
+
+.activeElementNew {
+    background-color: blue !important;
+    color: #fff !important;
+}
+
+#btnTheme {
+    padding: 10px;
+    font-size: 18px;
+    transition: 300ms all linear;
+}
+
+.theme-btn-dark{
+    color:#fff;
+}
+.theme-btn-light{
+    color:#2A0944;
+}
