@@ -1,5 +1,3 @@
-React.js kullanarak geliştirdiğim projelerim.
-
 # React.js Örnek Projeler
 
 Bu projeler [Create React App](https://github.com/facebook/create-react-app) kullanılarak geliştirdiğim React.js projelerim.
