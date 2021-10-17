@@ -5,7 +5,7 @@ function About() {
       <div className="row my-4">
         <div className="col-md-6">
           <img
-            src="https://images.wallpaperscraft.com/image/mountain_slope_trees_193459_1280x720.jpg"
+            src="https://images.wallpaperscraft.com/"
             alt="Hakkında Resmi"
             className="rounded w-100"
           />
