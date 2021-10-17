@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.container {
+    width: 1200px;
+    padding: 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header-text {
+    font-size: 24px;
+    color: #908484;
+    text-align: center;
+    font-weight: bold;
+}
+
+.search-box {
+    border-radius: 30px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #fff;
+    width: 350px;
+    margin: 10px 0;
+    font-size: 18px;
+    color: #908484;
+}
+
+.textarea-box {
+    position: relative;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+    padding: 10px;
+}
+
+.textarea-input {
+    border-radius: 3px;
+    outline: none;
+    padding: 10px;
+    width: 750px;
+    min-height: 200px;
+    border: none;
+    margin-top: 10px;
+    font-size: 16px;
+    resize: none;
+}
+
+.textarea-inner-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+    min-height: 75px;
+}
+
+.btn-add {
+    background-color: #10a504;
+    border: none;
+    outline: none;
+    padding: 10px 12px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 14px;
+}
+
+.btn {
+    padding: 15px;
+    border-radius: 10000px;
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+    opacity: 0.5;
+    transition: 300ms all linear;
+}
+
+.btn-active {
+    border-top: 20px solid #f58c02;
+    opacity: 1;
+}
+
+.btn-red {
+    background-color: #de2053;
+}
+
+.btn-blue {
+    background-color: #0635f1;
+}
+
+.btn-green {
+    background-color: #65fa00;
+}
+
+.btn-purple {
+    background-color: #ff00cc;
+}
+
+.btn-black {
+    background-color: #000000;
+}
+
+.note-container {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 12px;
+    margin: 10px 0;
+    flex-wrap: wrap;
+}
+
+.note-item {
+    min-width: 250px;
+    padding: 10px 24px;
+    color: #fff;
+    font-weight: bold;
+    margin: 10px 12px;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.note-not-found{
+    text-align: center;
+    padding: 10px 24px;
+    color: red;
+    font-size: 19px;
+    font-weight: 600;
+}
