@@ -1,0 +1,23 @@
+nav {
+    width: 100%;
+    background-color: #f8f9fa!important;
+    padding: 10px 12px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul li {
+    margin: 0 10px 0 0;
+}
+
+nav ul li a {
+    color: #333;
+    padding: 10px 12px;
+    display: block;
+    font-size: 17px;
+    font-weight: 400;
+}
